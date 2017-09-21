@@ -1,4 +1,4 @@
-In order to convert the vggish model to tensorflow:
+In order to convert the vggish model to Keras:
 copy the files in the audioset repo.
 
 execute:
